@@ -1,0 +1,4 @@
+This is a tool app. It can increase school guards' efficiency to register aliens. It can realize following functions:
+1. Register aliens.Conbine him or her with a QR code.
+2.Record registered aliens' visit information.
+3.Analyze data. Users can see how much aliens come to school today, a week , a month and who they are.Users can also export the data in a .db file.
