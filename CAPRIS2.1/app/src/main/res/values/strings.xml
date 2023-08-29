@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CAPRIS</string>
+    <string-array name="content">
+        <item>欧四</item>
+        <item>欧五</item>
+        <item>其他</item>
+    </string-array>
+</resources>
